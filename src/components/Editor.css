@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  width: 90vw;
+  /* border: 1px solid red */
+}
+
+.input-text {
+  background-color: rgb(3, 93, 123);
+  color: white;
+  width: 500px;
+  height: 500px;
+}
+
+.output-text {
+  box-shadow: 10px 10px 5px rgb(30, 30, 30);
+  border-radius: 5px;
+  background-color: rgb(78, 76, 76);
+
+  width: 500px;
+  height: 500px;
+  color: whitesmoke;
+  /* color: black; */
+}
